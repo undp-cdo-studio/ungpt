@@ -1,10 +1,11 @@
 "use client";
 
 import type { Locale } from "@/i18n";
+import { i18nConfig } from "@/i18n";
 import logger from "@/logger";
 import {
-  AuthenticatedTemplate,
-  UnauthenticatedTemplate,
+    AuthenticatedTemplate,
+    UnauthenticatedTemplate,
 } from "@azure/msal-react";
 import Image from "next/image";
 import Link from "next/link";
@@ -39,7 +40,7 @@ export function Header({
   colour = "blue",
   navigationOptions,
   name,
-  locale,
+  locale = i18nConfig.defaultLocale,
   homePage,
   chooseLocale = false,
   translation,
