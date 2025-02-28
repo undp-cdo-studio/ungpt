@@ -1,0 +1,310 @@
+{
+  "en": {
+    "common": {
+      "loading": "Loading...",
+      "error": "An error occurred",
+      "notFound": "Not Found",
+      "back": "Back",
+      "next": "Next",
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "poweredBy": "Powered by",
+      "backToMainSite": "Back to Main Site"
+    },
+    "nav": {
+      "localeSelector": {
+        "message": "Choose a language"
+      }
+    },
+    "chat": {
+      "placeholder": "Type your message here...",
+      "send": "Send",
+      "aiDisclaimer": "Responses are AI-generated and may contain mistakes. Please verify important information.",
+      "welcomeMessage": "How can I help you today?",
+      "errorMessage": "Something went wrong. Please try again.",
+      "copyToClipboard": "Copy to clipboard",
+      "copied": "Copied!",
+      "textToSpeech": "Text to speech",
+      "rateResponse": "Rate response"
+    },
+    "home": {
+      "title": "Smarter Conversations for UN Organizations",
+      "description": "Create your own AI-powered chatbot for your UN project or initiative. Streamline communication, enhance engagement, and make information more accessible.",
+      "createChatbotButton": "Create Your Chatbot",
+      "learnMoreButton": "Learn More"
+    }
+  },
+  "fr": {
+    "common": {
+      "loading": "Chargement...",
+      "error": "Une erreur est survenue",
+      "notFound": "Non trouvé",
+      "back": "Retour",
+      "next": "Suivant",
+      "submit": "Soumettre",
+      "cancel": "Annuler",
+      "backToMainSite": "Retour à le site principal"
+    },
+    "nav": {
+      "localeSelector": {
+        "message": "Choisissez une langue"
+      }
+    },
+    "chat": {
+      "placeholder": "Tapez votre message ici...",
+      "send": "Envoyer",
+      "aiDisclaimer": "Les réponses sont générées par l'IA et peuvent contenir des erreurs. Veuillez vérifier les informations importantes.",
+      "welcomeMessage": "Comment puis-je vous aider aujourd'hui ?",
+      "errorMessage": "Un problème est survenu. Veuillez réessayer.",
+      "copyToClipboard": "Copier dans le presse-papiers",
+      "copied": "Copié !",
+      "textToSpeech": "Texte en parole",
+      "rateResponse": "Évaluer la réponse"
+    },
+    "home": {
+      "title": "Des conversations plus intelligentes pour les organisations de l'ONU",
+      "description": "Créez votre propre chatbot alimenté par l'IA pour votre projet ou initiative de l'ONU. Simplifiez la communication, renforcez l'engagement et facilitez l'accès à l'information.",
+      "createChatbotButton": "Créer votre chatbot",
+      "learnMoreButton": "En savoir plus"
+    }
+  },
+  "es": {
+    "common": {
+      "loading": "Cargando...",
+      "error": "Ocurrió un error",
+      "notFound": "No encontrado",
+      "back": "Atrás",
+      "next": "Siguiente",
+      "submit": "Enviar",
+      "cancel": "Cancelar",
+      "backToMainSite": "Volver al sitio principal"
+    },
+    "nav": {
+      "localeSelector": {
+        "message": "Elige un idioma"
+      }
+    },
+    "chat": {
+      "placeholder": "Escribe tu mensaje aquí...",
+      "send": "Enviar",
+      "aiDisclaimer": "Las respuestas son generadas por IA y pueden contener errores. Verifique la información importante.",
+      "welcomeMessage": "¿Cómo puedo ayudarte hoy?",
+      "errorMessage": "Algo salió mal. Por favor, inténtalo de nuevo.",
+      "copyToClipboard": "Copiar al portapapeles",
+      "copied": "¡Copiado!",
+      "textToSpeech": "Texto a voz",
+      "rateResponse": "Calificar respuesta"
+    },
+    "home": {
+      "title": "Conversaciones más inteligentes para las organizaciones de la ONU",
+      "description": "Crea tu propio chatbot con IA para tu proyecto o iniciativa de la ONU. Simplifica la comunicación, fortalece la participación y facilita el acceso a la información.",
+      "createChatbotButton": "Crear tu chatbot",
+      "learnMoreButton": "Más información"
+    }
+  },
+  "de": {
+    "common": {
+      "loading": "Lädt...",
+      "error": "Ein Fehler ist aufgetreten",
+      "notFound": "Nicht gefunden",
+      "back": "Zurück",
+      "next": "Weiter",
+      "submit": "Senden",
+      "cancel": "Abbrechen",
+      "backToMainSite": "Zurück zur Hauptseite"
+    },
+    "nav": {
+      "localeSelector": {
+        "message": "Wählen Sie eine Sprache"
+      }
+    },
+    "chat": {
+      "placeholder": "",
+      "send": "",
+      "aiDisclaimer": "",
+      "welcomeMessage": "",
+      "errorMessage": "",
+      "copyToClipboard": "",
+      "copied": "",
+      "textToSpeech": "",
+      "rateResponse": ""
+    },
+    "home": {
+      "title": "Intelligentere Gespräche für UN-Organisationen",
+      "description": "Erstellen Sie Ihren eigenen KI-gestützten Chatbot für Ihr UN-Projekt oder Ihre Initiative. Optimieren Sie die Kommunikation, stärken Sie das Engagement und erleichtern Sie den Zugang zu Informationen.",
+      "createChatbotButton": "Ihren Chatbot erstellen",
+      "learnMoreButton": "Mehr erfahren"
+    }
+  },
+
+  "it": {
+    "common": {
+      "loading": "Caricamento...",
+      "error": "Si è verificato un errore",
+      "notFound": "Non trovato",
+      "back": "Indietro",
+      "next": "Avanti",
+      "submit": "Invia",
+      "cancel": "Annulla",
+      "backToMainSite": "Torna al sito principale"
+    },
+    "nav": {
+      "localeSelector": {
+        "message": "Scegli una lingua"
+      }
+    },
+    "chat": {
+      "placeholder": "Scrivi il tuo messaggio qui...",
+      "send": "Invia",
+      "aiDisclaimer": "Le risposte sono generate dall'IA e possono contenere errori. Si prega di verificare le informazioni importanti.",
+      "welcomeMessage": "Come posso aiutarti oggi?",
+      "errorMessage": "Qualcosa è andato storto. Riprova.",
+      "copyToClipboard": "Copia negli appunti",
+      "copied": "Copiato!",
+      "textToSpeech": "Testo in voce",
+      "rateResponse": "Valuta la risposta"
+    },
+    "home": {
+      "title": "Conversazioni più intelligenti per le organizzazioni delle Nazioni Unite",
+      "description": "Crea il tuo chatbot con intelligenza artificiale per il tuo progetto o iniziativa ONU. Semplifica la comunicazione, migliora il coinvolgimento e facilita l’accesso alle informazioni.",
+      "createChatbotButton": "Crea il tuo chatbot",
+      "learnMoreButton": "Scopri di più"
+    }
+  },
+  "ja": {
+    "common": {
+      "loading": "読み込み中...",
+      "error": "エラーが発生しました",
+      "notFound": "見つかりません",
+      "back": "戻る",
+      "next": "次へ",
+      "submit": "送信",
+      "cancel": "キャンセル",
+      "backToMainSite": "メインサイトに戻る"
+    },
+    "nav": {
+      "localeSelector": {
+        "message": "言語を選択してください"
+      }
+    },
+    "chat": {
+      "placeholder": "ここにメッセージを入力してください...",
+      "send": "送信",
+      "aiDisclaimer": "AI によって生成された回答は間違いを含む可能性があります。重要な情報を確認してください。",
+      "welcomeMessage": "どのようにお手伝いできますか？",
+      "errorMessage": "問題が発生しました。もう一度お試しください。",
+      "copyToClipboard": "クリップボードにコピー",
+      "copied": "コピーしました！",
+      "textToSpeech": "テキスト読み上げ",
+      "rateResponse": "回答を評価"
+    },
+    "home": {
+      "title": "国連機関のためのスマートな会話",
+      "description": "あなたの国連プロジェクトやイニシアチブのために、AI 搭載のチャットボットを作成しましょう。コミュニケーションを効率化し、エンゲージメントを向上させ、情報へのアクセスを容易にします。",
+      "createChatbotButton": "チャットボットを作成",
+      "learnMoreButton": "詳細を知る"
+    }
+  },
+  "ko": {
+    "common": {
+      "loading": "로딩 중...",
+      "error": "오류가 발생했습니다",
+      "notFound": "찾을 수 없음",
+      "back": "뒤로",
+      "next": "다음",
+      "submit": "제출",
+      "cancel": "취소",
+      "backToMainSite": "메인 사이트로 돌아가기"
+    },
+    "nav": {
+      "localeSelector": {
+        "message": "언어를 선택하세요"
+      }
+    },
+    "chat": {
+      "placeholder": "여기에 메시지를 입력하세요...",
+      "send": "보내기",
+      "aiDisclaimer": "AI가 생성한 응답에는 오류가 포함될 수 있습니다. 중요한 정보를 확인하세요.",
+      "welcomeMessage": "무엇을 도와드릴까요?",
+      "errorMessage": "문제가 발생했습니다. 다시 시도하세요.",
+      "copyToClipboard": "클립보드에 복사",
+      "copied": "복사됨!",
+      "textToSpeech": "텍스트 음성 변환",
+      "rateResponse": "응답 평가"
+    },
+    "home": {
+      "title": "유엔 조직을 위한 더 스마트한 대화",
+      "description": "유엔 프로젝트나 이니셔티브를 위해 AI 기반 챗봇을 만들고, 소통을 원활하게 하고, 참여도를 높이며, 정보 접근성을 향상하세요.",
+      "createChatbotButton": "챗봇 만들기",
+      "learnMoreButton": "자세히 알아보기"
+    }
+  },
+  "zh": {
+    "common": {
+      "loading": "加载中...",
+      "error": "发生错误",
+      "notFound": "未找到",
+      "back": "返回",
+      "next": "下一步",
+      "submit": "提交",
+      "cancel": "取消",
+      "backToMainSite": "返回主站"
+    },
+    "nav": {
+      "localeSelector": {
+        "message": "选择语言"
+      }
+    },
+    "chat": {
+      "placeholder": "在这里输入您的消息...",
+      "send": "发送",
+      "aiDisclaimer": "AI 生成的回复可能包含错误。请核实重要信息。",
+      "welcomeMessage": "我能帮您什么？",
+      "errorMessage": "出了点问题，请重试。",
+      "copyToClipboard": "复制到剪贴板",
+      "copied": "已复制！",
+      "textToSpeech": "文字转语音",
+      "rateResponse": "评价回复"
+    },
+    "home": {
+      "title": "联合国组织的智能对话",
+      "description": "为您的联合国项目或倡议创建 AI 驱动的聊天机器人。简化沟通、增强互动、提高信息可获取性。",
+      "createChatbotButton": "创建您的聊天机器人",
+      "learnMoreButton": "了解更多"
+    }
+  },
+  "ar": {
+    "common": {
+      "loading": "جار التحميل...",
+      "error": "حدث خطأ",
+      "notFound": "غير موجود",
+      "back": "رجوع",
+      "next": "التالي",
+      "submit": "إرسال",
+      "cancel": "إلغاء",
+      "backToMainSite": "العودة إلى الموقع الرئيسي"
+    },
+    "nav": {
+      "localeSelector": {
+        "message": "اختر لغة"
+      }
+    },
+    "chat": {
+      "placeholder": "اكتب رسالتك هنا...",
+      "send": "إرسال",
+      "aiDisclaimer": "يتم إنشاء الردود بواسطة الذكاء الاصطناعي وقد تحتوي على أخطاء. يرجى التحقق من المعلومات الهامة.",
+      "welcomeMessage": "كيف يمكنني مساعدتك اليوم؟",
+      "errorMessage": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+      "copyToClipboard": "نسخ إلى الحافظة",
+      "copied": "تم النسخ!",
+      "textToSpeech": "تحويل النص إلى كلام",
+      "rateResponse": "قيم الرد"
+    },
+    "home": {
+      "title": "محادثات أكثر ذكاءً لمنظمات الأمم المتحدة",
+      "description": "أنشئ روبوت دردشة مدعومًا بالذكاء الاصطناعي لمشروعك أو مبادرتك التابعة للأمم المتحدة. قم بتبسيط التواصل، وتعزيز التفاعل، وتسهيل الوصول إلى المعلومات.",
+      "createChatbotButton": "إنشاء روبوت الدردشة",
+      "learnMoreButton": "معرفة المزيد"
+    }
+  }
+}
