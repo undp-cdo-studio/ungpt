@@ -1,35 +1,27 @@
-# UNDP AI Co-pilot
+# UN-GPT: AI Co-pilot for United Nations
 
 ## Overview
 
-UNDP AI Co-pilot is an AI-powered application designed to assist UNDP officers and stakeholders in project planning and documentation. The tool leverages OpenAI's GPT-4 to generate project descriptions, summaries, and other key project planning components based on user inputs.
+UN-GPT is a general-purpose AI-powered application designed to assist United Nations members, officers, and stakeholders in their daily tasks, project planning, and documentation. The tool leverages advanced AI models to generate content, provide insights, and streamline workflows across various UN activities.
 
 ## Purpose
 
-This application aims to enhance productivity, provide deeper understanding of projects, and ultimately aid in creating impactful and sustainable solutions for the global community.
+This application aims to enhance productivity, provide deeper understanding of complex issues, and ultimately aid UN personnel in creating impactful and sustainable solutions for the global community. By automating routine tasks and providing AI-assisted analysis, UN-GPT helps UN members focus on their core mission of addressing global challenges.
 
 ## Features
 
-- AI-assisted generation of project documentation
-- Support for multiple templates including:
-  - Project Initiation Plan (PIP)
-  - Debris Management
-  - Community Infrastructure Rehabilitation
-  - Early Recovery
-  - Work Plan
+- AI-assisted generation of various UN documents and reports
+- Support for multiple templates and document types including:
+  - Project Initiation Plans
+  - Work Plans
+  - Situation Analysis
+  - Policy Briefs
+  - Meeting Summaries
+  - Field Reports
 - Markdown rendering with support for footnotes, tables, and other formatting
-- Chat interface for interacting with the AI assistant
+- Interactive chat interface for natural language interaction
 - Copy functionality for generated content
-
-## Technology Stack
-
-- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
-- **UI Components**: React Markdown, Heroicons
-- **State Management**: React Hooks
-- **Internationalization**: next-intl
-- **Database**: Drizzle ORM with Supabase
-- **Testing**: Vitest, Playwright
-- **Linting/Formatting**: Biome, ESLint
+- Customizable to specific UN agency needs
 
 ## Getting Started
 
@@ -108,13 +100,16 @@ npm run test:watch
 
 ## Project Status
 
-This application is currently in beta version and under pilot testing.
+This application is currently in beta version and under pilot testing across various UN agencies.
 
 ## License
 
-[License information]
+This project is licensed under the MIT License with the following additional terms:
+
+1. Any use of this software must include visible attribution to the original creators.
+2. The United Nations name and logo are protected and their use is subject to the terms specified by the United Nations.
 
 ## Acknowledgements
 
-- OpenAI for GPT-4 technology
-- UNDP for project requirements and domain expertise
+- United Nations for domain expertise and requirements
+- Contributors to the open-source libraries used in this project
